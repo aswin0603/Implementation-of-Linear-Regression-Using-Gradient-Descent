@@ -70,7 +70,7 @@ data.head()
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![linear regression using gradient descent](https://github.com/aswin0603/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot_2026-07-24-08-34-29-76_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 
 ## Result:
